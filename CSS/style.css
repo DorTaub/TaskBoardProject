@@ -1,5 +1,5 @@
 body {
-	background-image: url(/TaskBoardProject/CSS/Assets/tile.jpg);
+	background-image: url(Assets/tile.jpg);
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 }
 
 form {
-	background-image: url(/TaskBoardProject/CSS/Assets/formbg.jpg);
+	background-image: url(Assets/formbg.jpg);
 	padding: 3px;
 	margin-left: 35%;
 	margin-right: 39%;
@@ -42,7 +42,7 @@ label {
 }
 
 .noteDiv {
-	background-image: url(/TaskBoardProject/CSS/Assets/notebg.png);
+	background-image: url(Assets/notebg.png);
 	background-repeat: no-repeat;
 	padding: 3%;
 	margin: 2%;
